@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathbot/CLionProjects/cosc2430/extra_quadratic/main.cpp
+iostream
+-
+quad.cpp
+/home/mathbot/CLionProjects/cosc2430/extra_quadratic/quad.cpp
+
+/home/mathbot/CLionProjects/cosc2430/extra_quadratic/quad.cpp
+quad.h
+/home/mathbot/CLionProjects/cosc2430/extra_quadratic/quad.h
+
+/home/mathbot/CLionProjects/cosc2430/extra_quadratic/quad.h
+iostream
+-
+istream
+-
+

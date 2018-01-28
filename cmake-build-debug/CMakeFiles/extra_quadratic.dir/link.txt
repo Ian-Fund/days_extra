@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/extra_quadratic.dir/main.cpp.o CMakeFiles/extra_quadratic.dir/quad.cpp.o  -o extra_quadratic 
